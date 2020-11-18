@@ -5,7 +5,7 @@ Sistema Operacional: Windows 10 - x64
 IDE: vscode
 Liguagem: Python
 
-Grupo: Amanda Lopes, Beatriz Cristina e Caliny
+Grupo: Amanda Lopes, Beatriz Cristina, Caliny e Pietro Henrique
 
 
 
