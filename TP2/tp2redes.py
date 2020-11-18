@@ -1,5 +1,6 @@
 import socket #usado para enviar dados através da rede
 portas_abertas = []
+
 host = input('Digite o ip: ') #pega o IP a conferir
 
 for porta in range(1,65535):#Há 65535 portas tcp,irá verificar quais estão abertas
@@ -12,5 +13,6 @@ for porta in range(1,65535):#Há 65535 portas tcp,irá verificar quais estão ab
     else:
         pass
 
-print("TOTAL DE PORTAS ABERTAS: %s"%portas_abertas)
+print("As postas abertas são: %s"%portas_abertas)
+print("Existem ", len(portas_abertas), "portas abertas no total")
 s.close() #finaliza a conexão
