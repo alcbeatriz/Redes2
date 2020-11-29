@@ -10,6 +10,6 @@ Alunos: Amanda Lopes - Beatriz Alcantara - Caliny Basilio - Pietro Henrique
 OBS: No windows foi necessário instalar uma lib para o funcionamento correto:
 pip install ping3
 __________________________________________________________
-Foram feitas as adaptações necessárias no cógido para melhor compreenção do grupo e solução do problema.
+Foram feitas as adaptações necessárias no código original para melhor compreenção do grupo e solução do problema.
 
 A versão do python testada foi a 3.9.0 e o interpretador foi o VsCode
