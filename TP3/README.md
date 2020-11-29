@@ -1,6 +1,8 @@
 # Redes2
 redes de computadores 2
-TRABALHO PRÁTICO 3 - Melhorando o Scanner 
+_____________________________________________
+TRABALHO PRÁTICO 3 - Melhorando o Scanner
+__________________________________________________ 
 Desenvolva um programa que mostre todos os hosts ativos em sua rede e as portas abertas em cada máquina.
 Alunos: Amanda Lopes - Beatriz Alcantara - Caliny Basilio - Pietro Henrique
 
